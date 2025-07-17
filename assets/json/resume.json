@@ -4,7 +4,7 @@
     "label": "Master's Student",
     "image": "",
     "email": "deepafc625@gmail.com",
-    "summary": "Master's Thesis Student at ESPCI Paris - PSL University, Paris, France. I am currently working on the analysis of turbulent flows in wind tunnels while performing experiments and simulations.",
+    "summary": "Master's Thesis Student at ESPCI Paris - PSL University, Paris, France. I am currently working on the analysis of turbulent flows in wind tunnels while performing experiments and simulations. This is part of my final year thesis at IISER Mohali where I am pursuing a BS-MS dual degree in Physics.",
     "profiles": [
       {
         "network": "Twitter",
@@ -23,21 +23,13 @@
       "startDate": "2021",
       "endDate": "2026",
       "score": "8.7"
-    },
-    {
-      "institution": "ICS Mahesh PU College",
-      "location": "Dharwad, India",
-      "area": "Science",
-      "studyType": "Student",
-      "startDate": "2019",
-      "endDate": "2021",
-      "score": "100%"
     }
   ],
   "work": [
     {
       "name": "École Supérieure de Physique et de Chimie Industrielles (ESPCI) Paris - PSL University",
       "position": "Indo-Thai Research Fellow",
+      "url": "https://www.espci.psl.eu/en/",
       "startDate": "07/2025",
       "endDate": "03/2026",
       "highlights": ["I am studying oscillations in turbulence, where I am performing experiments in wind tunnels, using python for simulations and analysing the data to eventually realise the beahaviour of large scale turbulence."]
