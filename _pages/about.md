@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='https://www.espci.psl.eu/en/'>Master's thesis student, Espci Paris</a> | final year physics major - IISER Mohali
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>India</p>
 
